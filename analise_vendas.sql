@@ -69,7 +69,4 @@ INSERT INTO itens_pedido VALUES (1, 1, 3, 1, '32.72');
 INSERT INTO itens_pedido VALUES (2, 2, 6, 1, '4910.20');
 INSERT INTO itens_pedido VALUES (3, 3, 7, 1, '139.00');
 
-SELECT * FROM clientes;
-SELECT * FROM pedidos;
-SELECT * FROM produtos;
 
